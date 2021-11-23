@@ -1,4 +1,4 @@
-# Architecture and Design
+# Architecture 
 # Behavioural Diagram
 
 
