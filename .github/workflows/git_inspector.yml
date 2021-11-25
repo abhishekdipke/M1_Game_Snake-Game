@@ -1,5 +1,3 @@
-name: Contribution Check - Git Inspector
-
 on:
   push:
     branches: [ main ]
